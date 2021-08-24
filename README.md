@@ -31,7 +31,7 @@ hist(powerDT[, Global_active_power], main="Global Active Power",
 dev.off()
 
 ```
-![] (https://github.com/SPnad/exploratory-data-analysis/blob/main/plot1.PNG)
+![](https://github.com/SPnad/exploratory-data-analysis/blob/main/plot1.PNG)
 ```R
 
 library("data.table")
